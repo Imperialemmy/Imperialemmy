@@ -19,6 +19,9 @@
 ## 📊 GitHub Stats  
 ![Seun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperialemmy&show_icons=true&theme=dark)  
 
+## 📊 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperialemmy&layout=compact&theme=dark)
+
 ## 🎯 Support Me  
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/Imperialemmy)
 
