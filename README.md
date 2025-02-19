@@ -20,5 +20,6 @@
 ![Seun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperialemmy&show_icons=true&theme=dark)  
 
 ## 🎯 Support Me  
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />](https://www.buymeacoffee.com/Imperialemmy)
+[<img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" height="50"/>](https://www.buymeacoffee.com/Imperialemmy)
+
 
