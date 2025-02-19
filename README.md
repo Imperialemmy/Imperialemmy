@@ -15,4 +15,4 @@
 ![Seun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperialemmy&show_icons=true&theme=dark)
 
 ## 🎯 Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Imperialemmy)
