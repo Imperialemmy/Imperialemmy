@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Seun
+# # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Seun
 
 ## 🚀 About Me
 - 🔭 I’m currently working on backend development using Django & Flask.
